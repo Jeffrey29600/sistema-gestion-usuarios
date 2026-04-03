@@ -1,0 +1,14 @@
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/bin/Debug/net9.0/sistema-gestion-usuarios
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/bin/Debug/net9.0/sistema-gestion-usuarios.deps.json
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/bin/Debug/net9.0/sistema-gestion-usuarios.runtimeconfig.json
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/bin/Debug/net9.0/sistema-gestion-usuarios.dll
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/bin/Debug/net9.0/sistema-gestion-usuarios.pdb
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/sistema-gestion-usuarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/sistema-gestion-usuarios.AssemblyInfoInputs.cache
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/sistema-gestion-usuarios.AssemblyInfo.cs
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/sistema-gestion-usuarios.csproj.CoreCompileInputs.cache
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/sistema-gestion-usuarios.dll
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/refint/sistema-gestion-usuarios.dll
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/sistema-gestion-usuarios.pdb
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/sistema-gestion-usuarios.genruntimeconfig.cache
+/Users/jeffry/Downloads/sistema-gestion-usuarios-main/obj/Debug/net9.0/ref/sistema-gestion-usuarios.dll
